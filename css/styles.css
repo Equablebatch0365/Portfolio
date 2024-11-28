@@ -1,0 +1,87 @@
+/* General About Section Styling */
+#about {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 50px 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#about .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#about h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: black; /* Adds color to the heading */
+    margin-bottom: 20px;
+}
+
+#about p {
+    line-height: 1.8;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+/* Image Styling */
+#about img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover;
+    margin: 0 auto;
+    display: block; /* Centers the image */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 4px solid #fff; /* Optional: Adds a clean border around the image */
+}
+
+/* Skills Section */
+.skills {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.skills h4 {
+    font-size: 1.8rem;
+    color: #2575fc;
+    margin-bottom: 15px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.1rem;
+}
+
+.skills ul li {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Contact Button Styling */
+.btn {
+    display: block;
+    width: 200px;
+    margin: 30px auto;
+    padding: 12px;
+    background-color: #2575fc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1.1rem;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #4CAF50; /* Changes the button color on hover */
+    transition: background-color 0.3s;
+}
+
+
