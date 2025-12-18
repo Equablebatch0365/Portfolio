@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website showcasing my journey as an aspiring Front-End Developer and IT student. 
 
-![HTML](https://img.shields.io/badge/HTML-62. 7%25-E34F26? style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-37.3%25-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## 🚀 Live Demo
 
